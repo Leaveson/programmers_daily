@@ -1,3 +1,7 @@
+# programmers
+# Level 1
+# 문자열 나누기
+# 1hours 30min
 def solution(s):
     length = len(s)
     pos = 0
