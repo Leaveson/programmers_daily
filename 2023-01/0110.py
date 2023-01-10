@@ -5,7 +5,6 @@ def solution(s):
     x = None
     same = 0
     diff = 0
-    done = False
     split_letter = []
     first = True
     while(pos < length):     
