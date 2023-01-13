@@ -1,4 +1,8 @@
+# Programmers
+# LEVEL 1
+# 햄버거 만들기 
 # 1hours 32min
+
 from collections import deque
 
 def solution(ingredient):
