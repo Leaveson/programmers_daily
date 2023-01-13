@@ -1,4 +1,3 @@
-#문제풀이시간 8:20 PM - 9: 52 PM
 # 1hours 32min
 from collections import deque
 
