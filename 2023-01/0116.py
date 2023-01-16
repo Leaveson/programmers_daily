@@ -1,7 +1,7 @@
 #Programmers
 #LEVEL1
 #신고결과 받기
-#문제 풀이시간 9:50PM - 10:25PM(25min)
+#문제 풀이시간 9:50PM - 10:25PM(35min)
 
 from collections import defaultdict
 
